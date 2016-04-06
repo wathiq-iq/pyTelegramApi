@@ -2,4 +2,4 @@
 """
 Code By: W3thiq 
 """ 
-Token=""  """token bot " " خلي التوكن بل نص """
+Token="" # -*- token bot " " خلي التوكن بل نص -*-
